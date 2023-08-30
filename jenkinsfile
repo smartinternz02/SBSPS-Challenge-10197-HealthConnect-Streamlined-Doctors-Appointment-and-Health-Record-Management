@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('SCM Checkout') {
             steps {
-                git url: 'https://github.com/shaiksaiteja/hms', branch: 'main'
+                git url: 'https://github.com/smartinternz02/SBSPS-Challenge-10197-HealthConnect-Streamlined-Doctors-Appointment-and-Health-Record-Management', branch: 'main'
             }
         }
         
