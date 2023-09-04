@@ -19,10 +19,8 @@ https://www.credly.com/badges/e41370d7-5bbb-4a1f-a21d-326567e65fc0/public_url
 https://www.credly.com/badges/700c175b-bd39-4509-887f-6dd2e1981615/public_url
 
 ### Venkata Ramulu Y
-https://www.credly.com/earner/earned/badge/1872ec2f-8190-40f1-a08d-fab1a13cc57a
-https://www.credly.com/earner/earned/badge/9cd50e47-9691-4ee3-a0e5-3ecbdcda5e02
-
-
+https://www.credly.com/badges/9cd50e47-9691-4ee3-a0e5-3ecbdcda5e02/public_url
+https://www.credly.com/badges/1872ec2f-8190-40f1-a08d-fab1a13cc57a/public_url
 # Hospital Management
 ---
 ## screenshots
